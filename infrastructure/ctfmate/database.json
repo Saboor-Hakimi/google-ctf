@@ -1,9 +1,0 @@
-{
-  "rules":{
-    // Hide the identifiers, but allow full control for those that know it.
-    "$secretid":{
-      ".read": true,
-      ".write": true
-    }
-  }
-}

@@ -1,1 +1,0 @@
-../challenge/helper.c
